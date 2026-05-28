@@ -1,8 +1,8 @@
 class Spg < Formula
   desc "Command-line tool for initializing Spring Boot projects"
   homepage "https://github.com/anasnaciri/spg"
-  url "https://github.com/anasnaciri/spg/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0fdf92abdfb80c8a91ccae68838cb3928ae50e0636c647fb42939fed490b1581"
+  url "https://github.com/anasnaciri/spg/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "d1a4d4f2da47728ef1632aa38da843ba8137729bcf27584be0e79d60941aea12"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/anasnaciri/spg.git", branch: "main"
 
